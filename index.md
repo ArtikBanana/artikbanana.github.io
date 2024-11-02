@@ -58,7 +58,7 @@ Installation is real simple go to releases, grab the [dll](/docs/assets/dinput8.
 
 Now to fix the crash that the client cause we need to regedit 1 thing
 
-wine regedit
+wine regedit  
 ![Pic](/docs/assets/guide5.png)
 
 Under HKEY_CURRENT_USER\Software\Wine\Direct3D
