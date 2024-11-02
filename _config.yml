@@ -1,3 +1,8 @@
+title: Guide
+
+description: >
+  How to run v83 MapleStory client (HeavenMS/Cosmic) on Linux
+  
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
