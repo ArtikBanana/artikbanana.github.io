@@ -66,5 +66,5 @@ Under HKEY_CURRENT_USER\Software\Wine\Direct3D
 
 Add a DWord MaxShaderModelVS and set it to 3
 
-I really hope it helps people running that version of the game under linux
-u/shipstreet
+I really hope it helps people running that version of the game under linux  
+[u/shipstreet](https://archive.md/ZrPOf)
