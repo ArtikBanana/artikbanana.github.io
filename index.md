@@ -1,5 +1,5 @@
-
-# How to run v83 cosmic on linux
+How to run v83 cosmic on linux
+---
 
 So after a few days i managed to get [v83 cosmic](https://github.com/P0nk/Cosmic) running under linux.
 
