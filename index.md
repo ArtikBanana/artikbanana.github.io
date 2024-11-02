@@ -16,7 +16,7 @@ Thats all :)
 Install the game using this preset  
 ![Windows 98 + 3DFX 32-bit](/docs/assets/guide1.png)
 
-After the game is installed follow the steps on the [github page](https://github.com/P0nk/Cosmic) to complete the install (mainly dropping files into maplestory directory)
+After the game is installed follow the steps on the [following page](/client.md) or the original [github page](https://github.com/P0nk/Cosmic) to complete the install (mainly dropping files into maplestory directory)
 
 Lutris settings
 
@@ -49,7 +49,7 @@ vcrun2003
 
 make sure you install either corefonts or allfonts using winetricks
 
-Ok almost done we just need 2 dlls [ws2_32.dll](/docs/assets/ws2_32.dll) and [ws2help.dll](/docs/assets/ws2help.dll) , I found them after a quick google search for maplelegends linux just make sure you place them into $WINEPREFIX/drive_c/windows/system32 and system
+Ok almost done we just need 2 dlls [ws2_32.dll](/docs/assets/ws2_32.dll) and [ws2help.dll](/docs/assets/ws2help.dll) , I found them after a quick google search for [maplelegends linux](https://forum.maplelegends.com/index.php?threads/installing-ml-on-linux-guide-updated.41984/) just make sure you place them into $WINEPREFIX/drive_c/windows/system32 and system
 
 After all this the game should open for a few seconds then freeze
 
@@ -67,3 +67,4 @@ Under HKEY_CURRENT_USER\Software\Wine\Direct3D
 Add a DWord MaxShaderModelVS and set it to 3
 
 I really hope it helps people running that version of the game under linux
+u/shipstreet
